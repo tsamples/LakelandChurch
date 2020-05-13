@@ -1,0 +1,17 @@
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\bin\Debug\netstandard2.0\Lakeland Church.deps.json
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\bin\Debug\netstandard2.0\Lakeland Church.dll
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\bin\Debug\netstandard2.0\ref\Lakeland Church.dll
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\bin\Debug\netstandard2.0\Lakeland Church.pdb
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Lakeland Church.csprojAssemblyReference.cache
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Lakeland Church.AssemblyInfoInputs.cache
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Lakeland Church.AssemblyInfo.cs
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Lakeland Church.dll
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\ref\Lakeland Church.dll
+C:\Users\Toby\source\repos\Lakeland Church\Lakeland Church\Lakeland Church\obj\Debug\netstandard2.0\Lakeland Church.pdb
